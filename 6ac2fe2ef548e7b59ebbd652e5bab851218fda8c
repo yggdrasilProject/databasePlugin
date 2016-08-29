@@ -1,0 +1,9 @@
+Quality-Assurance+1: Nemesis CI <nemesis@lina-infra.ru>
+Code-Review+2: Alexey Deryugin <aderyugin@mirantis.com>
+Workflow+1: Alexey Deryugin <aderyugin@mirantis.com>
+Verified+2: Nemesis CI <nemesis@lina-infra.ru>
+Submitted-by: Nemesis CI <nemesis@lina-infra.ru>
+Submitted-at: Mon, 29 Aug 2016 20:12:15 +0300
+Reviewed-on: https://review.lina-infra.ru/325
+Project: yggdrasilProject/databasePlugin
+Branch: refs/heads/master
