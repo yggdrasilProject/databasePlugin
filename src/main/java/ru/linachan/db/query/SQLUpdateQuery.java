@@ -52,7 +52,7 @@ public class SQLUpdateQuery implements SQLQuery {
     @Override
     public ResultSet execute() throws SQLException {
         String query = prepareQuery();
-
-        return dbManager.getStatement().executeQuery(query);
+        dbManager.getStatement().execute(query);
+        return null;
     }
 }

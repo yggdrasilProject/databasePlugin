@@ -38,6 +38,8 @@ public class SQLDeleteQuery implements SQLQuery {
 
     @Override
     public ResultSet execute() throws SQLException {
+        String query = prepareQuery();
+        dbManager.getStatement().execute(query);
         return null;
     }
 }
